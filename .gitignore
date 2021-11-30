@@ -5,6 +5,7 @@ __pycache__/
 .vscode/
 # C extensions
 *.so
+env.bat
 
 # Distribution / packaging
 .Python
